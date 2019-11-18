@@ -1,0 +1,16 @@
+.Register-Body-Container {
+    margin-top: 2rem;
+}
+.Register-Header-Container {
+    text-align: center;
+}
+.Register-Header-Container > h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+.Register-Header-Container > h4 {
+    color: #668aa3;
+}
+
+.Register-Footer-Container {
+    text-align: center;
+}

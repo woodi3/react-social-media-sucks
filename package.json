@@ -3,19 +3,29 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/autosize": "^3.0.6",
     "@types/jest": "24.0.19",
     "@types/node": "12.11.2",
     "@types/react": "16.9.9",
     "@types/react-dom": "16.9.2",
+    "@types/react-redux": "^7.1.5",
+    "@types/react-router-dom": "^5.1.0",
+    "@types/styled-components": "^4.1.19",
+    "autosize": "^4.0.2",
+    "axios": "^0.19.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
+    "redux": "^4.0.4",
+    "styled-components": "^4.4.0",
     "typescript": "3.6.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

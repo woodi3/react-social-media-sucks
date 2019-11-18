@@ -1,0 +1,16 @@
+.Login-Body-Container {
+    margin-top: 2rem;
+}
+.Login-Header-Container {
+    text-align: center;
+}
+.Login-Header-Container > h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+.Login-Header-Container > h4 {
+    color: #668aa3;
+}
+
+.Login-Footer-Container {
+    text-align: center;
+}

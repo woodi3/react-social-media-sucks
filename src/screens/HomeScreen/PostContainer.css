@@ -1,0 +1,11 @@
+.Post-Container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-auto-rows: 20px;
+}
+
+.Post-Feed-Title {
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+}
